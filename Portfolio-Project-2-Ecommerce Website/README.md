@@ -1,4 +1,4 @@
-## E-commerce website in  Laravel 10
+## Portfolio-Project-2-Ecommerce Website
 
 ### Modules :
 
