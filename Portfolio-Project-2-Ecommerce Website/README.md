@@ -68,6 +68,9 @@ Many more....
 11. Visit ```localhost:8000``` in your browser
 12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
 
+### Execution after Setup :
+Run in cmd: ```php artisan serve```
+
 ### Screenshots :
 
 ![Screenshot 2024-08-18 161625](https://github.com/user-attachments/assets/fa449818-53d5-4f8b-9108-be7b9285a731)
